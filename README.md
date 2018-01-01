@@ -27,6 +27,9 @@ lalu masuk ke project tersebut dan jalankan perintah
 
 dan, akan menghasilkan preview berikut ini .
 
+![alt text](https://github.com/jadirullah/dynamic-template-with-golang/blob/master/assets/images/view1.png)
+![alt text](https://github.com/jadirullah/dynamic-template-with-golang/blob/master/assets/images/view2.png)
+![alt text](https://github.com/jadirullah/dynamic-template-with-golang/blob/master/assets/images/view3.png)
 
 
 ##Semoga Bermanfaat
